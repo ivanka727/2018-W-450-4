@@ -6,4 +6,4 @@ from scipy import stats
 
 from IPython.display import display
 from IPython import get_ipython
-get_ipython().run_line_magic('matplotlib', 'inline')
+get_ipython().run_line_magic('matplotlib', 'inline') # makes the picture show up
